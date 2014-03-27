@@ -109,7 +109,7 @@ Workflows & Processes
 ----
 
 The key objective of the event was to create dynamic OLA during the live event and over the course of the weekend. The process for this is detailed in the diagram below
-![Ainsley](Ainsley+Harriott.jpeg)
+![Ainsley](ainsley.jpg)
 
 
 
